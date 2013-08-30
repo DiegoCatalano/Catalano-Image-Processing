@@ -8,7 +8,7 @@ import javax.swing.plaf.nimbus.NimbusLookAndFeel;
 
 public class Splash extends Frame implements ActionListener {
 //    static void renderSplashFrame(Graphics2D g, int frame) {
-//        //final String[] comps = {"foo", "bar", "baz"};
+//        ///final String[] comps = {"foo", "bar", "baz"};
 //        //g.setComposite(AlphaComposite.Clear);
 //        //g.fillRect(120,140,200,40);
 //        //g.setPaintMode();
